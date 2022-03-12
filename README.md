@@ -1,6 +1,15 @@
 # simple-zsh-theme
 simple zsh theme
 
+# download
+```shell
+wget https://raw.githubusercontent.com/mooonfly/simple-zsh-theme/main/simple.zsh-theme -O $HOME/.oh-my-zsh/custom/themes/simple.zsh-theme
+```
+or
+```shell
+curl https://raw.githubusercontent.com/mooonfly/simple-zsh-theme/main/simple.zsh-theme -o $HOME/.oh-my-zsh/custom/themes/simple.zsh-theme
+```
+
 apple.zsh-theme and clean.zsh-theme bind
 
 ### intellij idea dark
